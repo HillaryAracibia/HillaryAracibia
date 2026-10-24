@@ -1,6 +1,6 @@
 <!--
   ====================================================================
-  README DE PERFIL · souzasantos01103-jpg
+  README DE PERFIL · HillaryAracibia
   Paleta: fundo #080D18 · azul elétrico #1677FF · azul neon #00CFFF
   Os trechos marcados com "PERSONALIZE" são os que você deve ajustar.
   Obs.: o GitHub não permite definir a cor de fundo da página, por isso
@@ -11,12 +11,12 @@
 <!-- ░░░░░░░░░░ 1. CABEÇALHO ░░░░░░░░░░ -->
 <!-- PERSONALIZE: troque o valor de "text=" pelo seu nome ou apelido (use %20 para espaços). -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:080D18,50:1677FF,100:00CFFF&height=230&text=souzasantos01103-jpg&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner do perfil de souzasantos01103-jpg" />
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:080D18,50:1677FF,100:00CFFF&height=230&text=HillaryAracibia&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Banner do perfil de HillaryAracibia" />
 </p>
 
 <!-- Subtítulo com efeito de digitação (Readme Typing SVG) -->
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg">
+  <a href="https://github.com/HillaryAracibia">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00CFFF&background=080D18&center=true&vCenter=true&width=620&height=60&lines=Desenvolvedor+Front-End+em+Forma%C3%A7%C3%A3o;Estudando+HTML%2C+CSS+e+JavaScript;Transformando+ideias+em+interfaces;Aprendendo%2C+criando+e+evoluindo" alt="Desenvolvedor Front-End em Formação · Estudando HTML, CSS e JavaScript · Transformando ideias em interfaces · Aprendendo, criando e evoluindo" />
   </a>
 </p>
@@ -57,17 +57,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg">
-    <img src="https://github-readme-stats.vercel.app/api?username=souzasantos01103-jpg&show_icons=true&locale=pt-br&bg_color=080D18&border_color=1677FF&title_color=00CFFF&icon_color=1677FF&text_color=E6EDF3&ring_color=00CFFF&border_radius=12&hide_border=false" alt="Estatísticas gerais do GitHub de souzasantos01103-jpg" />
+  <a href="https://github.com/HillaryAracibia">
+    <img src="https://github-readme-stats.vercel.app/api?username=HillaryAracibia&show_icons=true&locale=pt-br&bg_color=080D18&border_color=1677FF&title_color=00CFFF&icon_color=1677FF&text_color=E6EDF3&ring_color=00CFFF&border_radius=12&hide_border=false" alt="Estatísticas gerais do GitHub de HillaryAracibia" />
   </a>
-  <a href="https://github.com/souzasantos01103-jpg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzasantos01103-jpg&layout=compact&langs_count=6&locale=pt-br&bg_color=080D18&border_color=1677FF&title_color=00CFFF&text_color=E6EDF3&border_radius=12&hide_border=false" alt="Linguagens mais utilizadas por souzasantos01103-jpg" />
+  <a href="https://github.com/HillaryAracibia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HillaryAracibia&layout=compact&langs_count=6&locale=pt-br&bg_color=080D18&border_color=1677FF&title_color=00CFFF&text_color=E6EDF3&border_radius=12&hide_border=false" alt="Linguagens mais utilizadas por HillaryAracibia" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg">
-    <img src="https://streak-stats.demolab.com/?user=souzasantos01103-jpg&background=080D18&border=1677FF&stroke=1677FF&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B98A9&border_radius=12&locale=pt_BR" alt="Sequência de contribuições de souzasantos01103-jpg" />
+  <a href="https://github.com/HillaryAracibia">
+    <img src="https://streak-stats.demolab.com/?user=HillaryAracibia&background=080D18&border=1677FF&stroke=1677FF&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B98A9&border_radius=12&locale=pt_BR" alt="Sequência de contribuições de HillaryAracibia" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@
   uma vez e, depois, remova os marcadores de comentário do bloco abaixo.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/souzasantos01103-jpg/souzasantos01103-jpg/output/github-snake-dark.svg" alt="Animação das contribuições de souzasantos01103-jpg" />
+  <img src="https://raw.githubusercontent.com/HillaryAracibia/HillaryAracibia/output/github-snake-dark.svg" alt="Animação das contribuições de HillaryAracibia" />
 </p>
 -->
 
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg?tab=repositories">
+  <a href="https://github.com/HillaryAracibia?tab=repositories">
     <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rios-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus repositórios no GitHub" />
   </a>
 </p>
@@ -106,14 +106,14 @@
 <!--
   OPÇÃO A: card automático (troque NOME-DO-REPOSITORIO pelo nome exato do repositório)
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg/NOME-DO-REPOSITORIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souzasantos01103-jpg&repo=NOME-DO-REPOSITORIO&bg_color=080D18&border_color=1677FF&title_color=00CFFF&icon_color=1677FF&text_color=E6EDF3&border_radius=12" alt="Card do projeto NOME-DO-REPOSITORIO" />
+  <a href="https://github.com/HillaryAracibia/NOME-DO-REPOSITORIO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HillaryAracibia&repo=NOME-DO-REPOSITORIO&bg_color=080D18&border_color=1677FF&title_color=00CFFF&icon_color=1677FF&text_color=E6EDF3&border_radius=12" alt="Card do projeto NOME-DO-REPOSITORIO" />
   </a>
 </p>
 
   OPÇÃO B: texto manual (use se o card automático estiver indisponível)
 <p align="center">
-  <b><a href="https://github.com/souzasantos01103-jpg/NOME-DO-REPOSITORIO">NOME DO PROJETO</a></b>
+  <b><a href="https://github.com/HillaryAracibia/NOME-DO-REPOSITORIO">NOME DO PROJETO</a></b>
   <br/>
   <sub>Descrição curta do que o projeto faz · HTML · CSS · JavaScript</sub>
 </p>
@@ -125,8 +125,8 @@
 <h3 align="center">🌐 Contato e redes sociais</h3>
 
 <p align="center">
-  <a href="https://github.com/souzasantos01103-jpg">
-    <img src="https://img.shields.io/badge/GitHub-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de souzasantos01103-jpg" />
+  <a href="https://github.com/HillaryAracibia">
+    <img src="https://img.shields.io/badge/GitHub-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de HillaryAracibia" />
   </a>
 </p>
 
